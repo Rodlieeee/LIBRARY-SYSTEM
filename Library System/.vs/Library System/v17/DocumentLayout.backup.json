@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rodlie Angel Fuentes\\source\\repos\\LIBRARY SYSTEM\\Library System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B933A747-4525-4920-9BC6-55EB7B0C959B}|Library System\\Library System.csproj|C:\\Users\\Rodlie Angel Fuentes\\source\\repos\\LIBRARY SYSTEM\\Library System\\library system\\libsys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B933A747-4525-4920-9BC6-55EB7B0C959B}|Library System\\Library System.csproj|solutionrelative:library system\\libsys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933A747-4525-4920-9BC6-55EB7B0C959B}|Library System\\Library System.csproj|c:\\users\\rodlie angel fuentes\\source\\repos\\library system\\library system\\library system\\libsys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933A747-4525-4920-9BC6-55EB7B0C959B}|Library System\\Library System.csproj|solutionrelative:library system\\libsys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933A747-4525-4920-9BC6-55EB7B0C959B}|Library System\\Library System.csproj|C:\\Users\\Rodlie Angel Fuentes\\source\\repos\\LIBRARY SYSTEM\\Library System\\library system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933A747-4525-4920-9BC6-55EB7B0C959B}|Library System\\Library System.csproj|solutionrelative:library system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933A747-4525-4920-9BC6-55EB7B0C959B}|Library System\\Library System.csproj|C:\\Users\\Rodlie Angel Fuentes\\source\\repos\\LIBRARY SYSTEM\\Library System\\library system\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933A747-4525-4920-9BC6-55EB7B0C959B}|Library System\\Library System.csproj|solutionrelative:library system\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933A747-4525-4920-9BC6-55EB7B0C959B}|Library System\\Library System.csproj|c:\\users\\rodlie angel fuentes\\source\\repos\\library system\\library system\\library system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B933A747-4525-4920-9BC6-55EB7B0C959B}|Library System\\Library System.csproj|solutionrelative:library system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933A747-4525-4920-9BC6-55EB7B0C959B}|Library System\\Library System.csproj|C:\\Users\\Rodlie Angel Fuentes\\source\\repos\\LIBRARY SYSTEM\\Library System\\library system\\libsys.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933A747-4525-4920-9BC6-55EB7B0C959B}|Library System\\Library System.csproj|solutionrelative:library system\\libsys.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933A747-4525-4920-9BC6-55EB7B0C959B}|Library System\\Library System.csproj|c:\\users\\rodlie angel fuentes\\source\\repos\\library system\\library system\\library system\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933A747-4525-4920-9BC6-55EB7B0C959B}|Library System\\Library System.csproj|solutionrelative:library system\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "loginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rodlie Angel Fuentes\\source\\repos\\LIBRARY SYSTEM\\Library System\\Library System\\loginForm.cs",
+              "RelativeDocumentMoniker": "Library System\\loginForm.cs",
+              "ToolTip": "C:\\Users\\Rodlie Angel Fuentes\\source\\repos\\LIBRARY SYSTEM\\Library System\\Library System\\loginForm.cs [Design]",
+              "RelativeToolTip": "Library System\\loginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T05:34:05.763Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibSys.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Rodlie Angel Fuentes\\source\\repos\\LIBRARY SYSTEM\\Library System\\Library System\\LibSys.Designer.cs",
+              "RelativeDocumentMoniker": "Library System\\LibSys.Designer.cs",
+              "ToolTip": "C:\\Users\\Rodlie Angel Fuentes\\source\\repos\\LIBRARY SYSTEM\\Library System\\Library System\\LibSys.Designer.cs",
+              "RelativeToolTip": "Library System\\LibSys.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T13:28:26.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibSys.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rodlie Angel Fuentes\\source\\repos\\LIBRARY SYSTEM\\Library System\\Library System\\LibSys.cs",
+              "RelativeDocumentMoniker": "Library System\\LibSys.cs",
+              "ToolTip": "C:\\Users\\Rodlie Angel Fuentes\\source\\repos\\LIBRARY SYSTEM\\Library System\\Library System\\LibSys.cs [Design]",
+              "RelativeToolTip": "Library System\\LibSys.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T13:29:27.387Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "loginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Rodlie Angel Fuentes\\source\\repos\\LIBRARY SYSTEM\\Library System\\Library System\\loginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Library System\\loginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Rodlie Angel Fuentes\\source\\repos\\LIBRARY SYSTEM\\Library System\\Library System\\loginForm.Designer.cs",
+              "RelativeToolTip": "Library System\\loginForm.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwNIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T05:14:18.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "loginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Rodlie Angel Fuentes\\source\\repos\\LIBRARY SYSTEM\\Library System\\Library System\\loginForm.cs",
+              "RelativeDocumentMoniker": "Library System\\loginForm.cs",
+              "ToolTip": "C:\\Users\\Rodlie Angel Fuentes\\source\\repos\\LIBRARY SYSTEM\\Library System\\Library System\\loginForm.cs",
+              "RelativeToolTip": "Library System\\loginForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T05:14:23.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibSys.cs",
+              "DocumentMoniker": "C:\\Users\\Rodlie Angel Fuentes\\source\\repos\\LIBRARY SYSTEM\\Library System\\Library System\\LibSys.cs",
+              "RelativeDocumentMoniker": "Library System\\LibSys.cs",
+              "ToolTip": "C:\\Users\\Rodlie Angel Fuentes\\source\\repos\\LIBRARY SYSTEM\\Library System\\Library System\\LibSys.cs",
+              "RelativeToolTip": "Library System\\LibSys.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T06:12:05.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Rodlie Angel Fuentes\\source\\repos\\LIBRARY SYSTEM\\Library System\\Library System\\Database.cs",
+              "RelativeDocumentMoniker": "Library System\\Database.cs",
+              "ToolTip": "C:\\Users\\Rodlie Angel Fuentes\\source\\repos\\LIBRARY SYSTEM\\Library System\\Library System\\Database.cs",
+              "RelativeToolTip": "Library System\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T03:27:54.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

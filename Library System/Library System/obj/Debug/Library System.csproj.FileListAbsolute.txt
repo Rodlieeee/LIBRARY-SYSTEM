@@ -1,0 +1,44 @@
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\Library System.exe.config
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\Library System.exe
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\Library System.pdb
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\obj\Debug\Library System.csproj.AssemblyReference.cache
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\obj\Debug\Library_System.Properties.Resources.resources
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\obj\Debug\Library System.csproj.GenerateResource.cache
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\obj\Debug\Library System.csproj.CoreCompileInputs.cache
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\obj\Debug\Library System.exe
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\obj\Debug\Library System.pdb
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\obj\Debug\Library_System.LibSys.resources
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\obj\Debug\Library_System.loginForm.resources
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\Google.Protobuf.dll
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\MySql.Data.dll
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\System.Buffers.dll
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\System.Memory.dll
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\ZstdSharp.dll
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\Google.Protobuf.pdb
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\Google.Protobuf.xml
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\MySql.Data.xml
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\System.Buffers.xml
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\System.Memory.xml
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Rodlie Angel Fuentes\source\repos\LIBRARY SYSTEM\Library System\Library System\obj\Debug\Library .4B5411E5.Up2Date
